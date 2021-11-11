@@ -1,5 +1,7 @@
 # Political-Election-Campaign
 
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/90555069/141262350-45cef2b3-d6ec-42bf-98a9-0f7423dd593d.png">
+
 # Introduction
 The candidate is the main focus of the election campaign,
 where marketing is carried out by introducing his/herself, and
